@@ -1,3 +1,2 @@
-FROM scratch
-COPY hello /
-CMD ["/hello"]
+FROM php:7.4.2-apache
+
