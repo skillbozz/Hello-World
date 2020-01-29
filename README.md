@@ -24,3 +24,5 @@ Finally, docker copies everything in src/ inside this repository to the /var/www
 # What You Should See
 
 ![Docker PHP App](https://image.ibb.co/cTxSf7/whale.png "Hello World")
+ 
+ check http://localhost to see if docker is running
