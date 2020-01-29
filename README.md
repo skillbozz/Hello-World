@@ -25,4 +25,4 @@ Finally, docker copies everything in src/ inside this repository to the /var/www
 
 ![Docker PHP App](https://image.ibb.co/cTxSf7/whale.png "Hello World")
  
- check http://localhost to see if docker is running
+From your project directory, start up your application by running docker-compose up.
